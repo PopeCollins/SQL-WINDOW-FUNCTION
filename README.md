@@ -1,5 +1,5 @@
 # SQL-WINDOW-FUNCTION
-### Using the (Invoice_Database)[https://github.com/PopeCollins/SQL-WINDOW-FUNCTION/blob/main/Invoice_Database.sql]
+### Using the [Invoice_Database](https://github.com/PopeCollins/SQL-WINDOW-FUNCTION/blob/main/Invoice_Database.sql)
 # QUEST 1
 -- Fetch the top 2 highest invoice paid by each cleint 
 
